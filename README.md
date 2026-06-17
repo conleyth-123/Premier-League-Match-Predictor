@@ -2,8 +2,6 @@
 
 Final project for CSE 482: Big Data. An analysis of English Premier League (EPL) team performance from the 2010/11 through 2019/20 seasons, paired with a machine learning model that predicts match outcomes.
 
-**Author:** Thomas Conley
-**GitHub:** https://github.com/conleyth-123/CSE482-Final-Project.git
 
 ## Overview
 
